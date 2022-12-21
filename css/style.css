@@ -196,7 +196,7 @@ input, textarea, .reset-outline {
   margin-top: 5px;
   width: 30px;
   height: 23px;
-  background: url('/img/Burger.png') center center no-repeat transparent;
+  background: url('img/Burger.png') center center no-repeat transparent;
   background-size: cover;
   transition: background-image .3s ease;
 }
@@ -317,15 +317,15 @@ input, textarea, .reset-outline {
 }
 
 .section-hero__background_balconies {
-  background-image: url('/img/balconies.jpg');
+  background-image: url('img/balconies.jpg');
 }
 
 .section-hero__background_glass-building {
-  background-image: url('/img/glass-building.jpg');
+  background-image: url('img/glass-building.jpg');
 }
 
 .section-hero__background_apartment-building {
-  background-image: url('/img/apartment-building.jpg');
+  background-image: url('img/apartment-building.jpg');
 }
 
 .section-hero__heading {
@@ -384,7 +384,7 @@ input, textarea, .reset-outline {
   flex-basis: calc((100% - 30px) / 2);
   margin-right: 30px;
   min-height: 622px;
-  background: url('/img/Rectangle_2.jpg') center center no-repeat transparent;
+  background: url('img/Rectangle_2.jpg') center center no-repeat transparent;
   background-size: cover;
 }
 
@@ -397,7 +397,7 @@ input, textarea, .reset-outline {
   align-items: center;
   flex-basis: 100%;
   padding: 40.75px 63px 39px 54px;
-  background: url('/img/Rectangle_5.png') center center no-repeat transparent;
+  background: url('img/Rectangle_5.png') center center no-repeat transparent;
   background-size: cover;
 }
 
@@ -458,7 +458,7 @@ input, textarea, .reset-outline {
   display: block;
   width: 178px;
   height: 137px;
-  background: url('/img/Group_25.png') center center no-repeat transparent;
+  background: url('img/Group_25.png') center center no-repeat transparent;
   background-size: auto 100%;
 }
 
@@ -466,7 +466,7 @@ input, textarea, .reset-outline {
   display: block;
   width: 178px;
   height: 153px;
-  background: url('/img/Group_24.svg') center center no-repeat transparent;
+  background: url('img/Group_24.svg') center center no-repeat transparent;
   background-size: auto 100%;
 }
 
@@ -573,19 +573,19 @@ input, textarea, .reset-outline {
 }
 
 .how-we-work__block2_img18 {
-  background-image: url('/img/Rectangle_18.jpg');
+  background-image: url('img/Rectangle_18.jpg');
 }
 
 .how-we-work__block2_img19 {
-  background-image: url('/img/img19.jpg');
+  background-image: url('img/img19.jpg');
 }
 
 .how-we-work__block2_img20 {
-  background-image: url('/img/img20.jpg');
+  background-image: url('img/img20.jpg');
 }
 
 .how-we-work__block2_img21 {
-  background-image: url('/img/img21.jpg');
+  background-image: url('img/img21.jpg');
 }
 
 .how-we-work-block1-footer__btn_detailed{
@@ -837,7 +837,7 @@ input, textarea {
 .footer-content-container-2-form__label {
   padding-left: 4px;
   margin-top: 10px;
-} 
+}
 
 .footer-content-container-2-form__input_checkbox {
   position: absolute;
@@ -868,7 +868,7 @@ input, textarea {
 }
 
 .footer-content-container-2-form__input_checkbox:checked + label::before {
-  background-image: url(/img/Rectangle_44.svg);
+  background-image: url(img/Rectangle_44.svg);
 }
 
 /* input:-webkit-autofill {
@@ -885,7 +885,7 @@ input[type="checkbox"]:checked + label::before {
   display: inline-block;
   height: 13px;
   width: 13px;
-  background: url('/img/Rectangle_44.svg') center center no-repeat transparent;
+  background: url('img/Rectangle_44.svg') center center no-repeat transparent;
   background-size: 11px;
   border: 1px solid var(--regular-text-grey);
   transform:translateY(2px) translateX(-4px);
@@ -965,15 +965,15 @@ input[type="checkbox"]:checked:disabled + label::before {
     }
 
   .section-hero__background_balconies {
-    background-image: url('/img/balconies_1024.jpg');
+    background-image: url('img/balconies_1024.jpg');
   }
 
   .section-hero__background_glass-building {
-    background-image: url('/img/glass-building_1024.jpg');
+    background-image: url('img/glass-building_1024.jpg');
   }
 
   .section-hero__background_apartment-building {
-    background-image: url('/img/apartment-building_1024.jpg');
+    background-image: url('img/apartment-building_1024.jpg');
   }
 
  .section-hero__heading, .section-hero__description {
@@ -1072,13 +1072,13 @@ input[type="checkbox"]:checked:disabled + label::before {
   .section-about-us-footer-container-cards__img-1 {
     width: 190px;
     height: 165px;
-    background-image: url('/img/Frame_16_1024.png');
+    background-image: url('img/Frame_16_1024.png');
   }
 
   .section-about-us-footer-container-cards__img-2  {
     width: 190px;
     height: 165px;
-    background-image: url('/img/Frame_12_1024.png');
+    background-image: url('img/Frame_12_1024.png');
   }
 
   .section-about-us-footer-container-cards__heading {
@@ -1114,19 +1114,19 @@ input[type="checkbox"]:checked:disabled + label::before {
   }
 
   .how-we-work__block2_img18 {
-    background-image: url('/img/Rectangle_18_1024.jpg');
+    background-image: url('img/Rectangle_18_1024.jpg');
   }
 
   .how-we-work__block2_img19 {
-    background-image: url('/img/img19_1024.jpg');
+    background-image: url('img/img19_1024.jpg');
   }
 
   .how-we-work__block2_img20 {
-    background-image: url('/img/img20_1024.jpg');
+    background-image: url('img/img20_1024.jpg');
   }
 
   .how-we-work__block2_img21 {
-    background-image: url('/img/img21_1024.jpg');
+    background-image: url('img/img21_1024.jpg');
   }
 
   .how-we-work-block1-header__heading {
@@ -1241,15 +1241,15 @@ input[type="checkbox"]:checked:disabled + label::before {
     }
 
   .section-hero__background_balconies {
-    background-image: url('/img/balconies_768.jpg');
+    background-image: url('img/balconies_768.jpg');
   }
 
   .section-hero__background_glass-building {
-    background-image: url('/img/glass-building_768.jpg');
+    background-image: url('img/glass-building_768.jpg');
   }
 
   .section-hero__background_apartment-building {
-    background-image: url('/img/apartment-building_768.jpg');
+    background-image: url('img/apartment-building_768.jpg');
   }
 
   .section-hero__heading {
@@ -1307,7 +1307,7 @@ input[type="checkbox"]:checked:disabled + label::before {
   .section-about-us-footer-container-cards__img-1 {
     width: 114px;
     height: 99px;
-    background-image: url('/img/Frame_16_768\ —\ копия.png');
+    background-image: url('img/Frame_16_768\ —\ копия.png');
   }
 
   .section-about-us-footer-container-cards__img-2 {
@@ -1344,19 +1344,19 @@ input[type="checkbox"]:checked:disabled + label::before {
   }
 
   .how-we-work__block2_img18 {
-    background-image: url('/img/img18_992.jpg');
+    background-image: url('img/img18_992.jpg');
   }
 
   .how-we-work__block2_img19 {
-    background-image: url('/img/img19_992.jpg');
+    background-image: url('img/img19_992.jpg');
   }
 
   .how-we-work__block2_img20 {
-    background-image: url('/img/img20_992.jpg');
+    background-image: url('img/img20_992.jpg');
   }
 
   .how-we-work__block2_img21 {
-    background-image: url('/img/img21_992.jpg');
+    background-image: url('img/img21_992.jpg');
   }
 
   .how-we-work-block1-header__description{
@@ -1463,15 +1463,15 @@ input[type="checkbox"]:checked:disabled + label::before {
     }
 
   .section-hero__background_balconies {
-    background-image: url('/img/balconies_320.jpg');
+    background-image: url('img/balconies_320.jpg');
   }
 
   .section-hero__background_glass-building {
-    background-image: url('/img/glass-building_320.jpg');
+    background-image: url('img/glass-building_320.jpg');
   }
 
   .section-hero__background_apartment-building {
-    background-image: url('/img/apartment-building_320.jpg');
+    background-image: url('img/apartment-building_320.jpg');
   }
 
   .section-hero__btn {
@@ -1503,7 +1503,7 @@ input[type="checkbox"]:checked:disabled + label::before {
   .section-about-us-footer-container__img-second {
     margin-bottom: 19px;
     min-height: 245px;
-    background: url('/img/Rectangle_2.jpg') center center no-repeat transparent;
+    background: url('img/Rectangle_2.jpg') center center no-repeat transparent;
     background-size: cover;
   }
 
@@ -1675,7 +1675,7 @@ input[type="checkbox"]:checked:disabled + label::before {
   .swiper-pagination {
     width: calc(100% - 37px);
   }
-  
+
   .section-about-us__heading {
     margin-bottom: 20px;
   }
@@ -1723,13 +1723,13 @@ input[type="checkbox"]:checked:disabled + label::before {
   .section-about-us-footer-container-cards__img-1{
     width: 64px;
     height: 49px;
-    background: url('/img/Frame_39.png') center center no-repeat transparent;
+    background: url('img/Frame_39.png') center center no-repeat transparent;
   }
 
   .section-about-us-footer-container-cards__img-2{
     width: 64px;
     height: 49px;
-    background: url('/img/Frame_38.png') center center no-repeat transparent;
+    background: url('img/Frame_38.png') center center no-repeat transparent;
   }
 
   .third-heading {
